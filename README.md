@@ -13,7 +13,7 @@ The app is currently **under review** and not ready for production use.
 - Profile  
 
 > ⚠️ **Note**:  
-> - The app is **Very Very heavy** because sensitive family data should not be inside the codebase.  
+> - The app is **Very Very heavy** because sensitive family data should not be inside the codebase & assets of our family.  
 > - **MVVM architecture** was not fully implemented.  
 
 ---
