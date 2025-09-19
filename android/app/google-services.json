@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597321260329",
+    "project_id": "ieeeteamapp",
+    "storage_bucket": "ieeeteamapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597321260329:android:e52baf66af475809ad2b38",
+        "android_client_info": {
+          "package_name": "com.ieee.busb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWOD-kXZGF-G3XynDdL4CbFj3QlUihvXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
